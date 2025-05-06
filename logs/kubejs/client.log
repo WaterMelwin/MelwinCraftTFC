@@ -1,0 +1,19 @@
+[03:24:28] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[03:24:28] [INIT] Loaded plugins:
+[03:24:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[03:24:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[03:24:28] [INIT] - com.squoshi.irons_spells_js.IronsSpellsJSPlugin
+[03:24:28] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[03:24:28] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[03:24:28] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[03:24:28] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[03:24:28] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[03:24:28] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[03:24:28] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[03:24:28] [INIT] KubeJS TFC configuration:
+[03:24:28] [INIT] - Debug mode enabled: false
+[03:24:28] [INIT] - Self tests console insertion enabled: true
+[03:24:28] [INFO] example.js#5: Hello, World! (Loaded client scripts)
+[03:24:28] [INFO] Loaded script client_scripts:example.js in 0.0 s
+[03:24:28] [INFO] Loaded 1/1 KubeJS client scripts in 0.016 s with 0 errors and 0 warnings
+[03:24:34] [INFO] Client resource reload complete!

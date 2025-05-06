@@ -1,0 +1,62 @@
+[04:02:33] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[04:02:33] [INIT] Loaded plugins:
+[04:02:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[04:02:33] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[04:02:33] [INIT] - com.squoshi.irons_spells_js.IronsSpellsJSPlugin
+[04:02:33] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[04:02:33] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[04:02:33] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[04:02:33] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[04:02:33] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[04:02:33] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[04:02:33] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[04:02:33] [INIT] KubeJS TFC configuration:
+[04:02:33] [INIT] - Debug mode enabled: false
+[04:02:33] [INIT] - Self tests console insertion enabled: true
+[04:02:33] [INFO] Loaded script server_scripts:Create/Added Shaped Recipes.js in 0.0 s
+[04:02:33] [INFO] Loaded script server_scripts:Create/Removed Recipes.js in 0.001 s
+[04:02:33] [INFO] Loaded script server_scripts:Extended Crafting/Removed Recipes.js in 0.0 s
+[04:02:33] [INFO] Loaded script server_scripts:TerraFirmaCraft/Quern.js in 0.0 s
+[04:02:33] [INFO] Loaded script server_scripts:TerraFirmaCraft/Tags.js in 0.0 s
+[04:02:33] [INFO] Loaded script server_scripts:Twilight Forest/Removed Recipes.js in 0.0 s
+[04:02:33] [INFO] Loaded 6/6 KubeJS server scripts in 0.004 s with 0 errors and 0 warnings
+[04:02:33] [INFO] Scripts loaded
+[04:02:33] [INFO] Initializing recipe event...
+[04:02:33] [INFO] [minecraft:item] Found 1708 tags, added 1 objects, removed 0 objects
+[04:02:33] [INFO] Processing recipes...
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/fire_resistance[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/invisibility[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/clear[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'tfcorewashing:tfc/heating/briquet/chromium[tfc:heating]'! Falling back to vanilla: {"fluid":"firmalife:metal/chromium","amount":80} is not a valid fluid!
+[04:02:33] [WARN] Failed to parse recipe 'firmalife:heating/ore/small_chromite[tfc:heating]'! Falling back to vanilla: {"fluid":"firmalife:metal/chromium","amount":5} is not a valid fluid!
+[04:02:33] [WARN] Failed to parse recipe 'tfcorewashing:ores/chromite/chromite_rich_pressing[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/feather_feet[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/bloodthirst[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/emptiness[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/absorption[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/jump_boost[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/weak_regeneration[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'tfcorewashing:ores/chromite/chromite_normal_pressing[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/regeneration[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/speed[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/night_vision[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/overload[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'tfcorewashing:ores/chromite/chromite_poor_pressing[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/allure[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'tfcorewashing:tfc/heating/pellet/chromium[tfc:heating]'! Falling back to vanilla: {"fluid":"firmalife:metal/chromium","amount":20} is not a valid fluid!
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/healing[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/strength[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/haste[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/soul_cross[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'tfcorewashing:tfc/heating/powder/chromite[tfc:heating]'! Falling back to vanilla: {"fluid":"firmalife:metal/chromium","amount":5} is not a valid fluid!
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/water_breathing[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'botania:brew/resistance[botania:brew]'! Falling back to vanilla: Cannot invoke "net.minecraft.core.Registry.m_7745_(net.minecraft.resources.ResourceLocation)" because "com.prunoideae.custom.brew.BotaniaRegistryObjectBuilderTypes.BREW_REGISTRY" is null
+[04:02:33] [WARN] Failed to parse recipe 'tfcorewashing:ores/chromite/chromite_small_pressing[create:sequenced_assembly]'! Falling back to vanilla: Ingredient 'ingredient' can't be empty!
+[04:02:33] [INFO] Found 18570 recipes in 60.67 ms
+[04:02:33] [INFO] Posted recipe events in 12.07 ms
+[04:02:33] [WARN] Error parsing recipe tfcorewashing:ores/chromite/chromite_poor_hammer[tfc:extra_products_shapeless_crafting]: {"type":"tfc:extra_products_shapeless_crafting","extra_products":[],"recipe":{"type":"tfc:damage_inputs_shapeless_crafting","recipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"firmalife:ore/poor_chromite"},{"tag":"forge:tools/hammers"}],"result":{"item":"tfcorewashing:rocky_chunks_chromite","count":3}}}}: Unknown item 'firmalife:ore/poor_chromite'
+[04:02:33] [WARN] Error parsing recipe tfcorewashing:ores/chromite/chromite_small_hammer[tfc:extra_products_shapeless_crafting]: {"type":"tfc:extra_products_shapeless_crafting","extra_products":[],"recipe":{"type":"tfc:damage_inputs_shapeless_crafting","recipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"firmalife:ore/small_chromite"},{"tag":"forge:tools/hammers"}],"result":{"item":"tfcorewashing:rocky_chunks_chromite","count":2}}}}: Unknown item 'firmalife:ore/small_chromite'
+[04:02:33] [WARN] Error parsing recipe tfcorewashing:ores/chromite/chromite_rich_hammer[tfc:extra_products_shapeless_crafting]: {"type":"tfc:extra_products_shapeless_crafting","extra_products":[],"recipe":{"type":"tfc:damage_inputs_shapeless_crafting","recipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"firmalife:ore/rich_chromite"},{"tag":"forge:tools/hammers"}],"result":{"item":"tfcorewashing:rocky_chunks_chromite","count":7}}}}: Unknown item 'firmalife:ore/rich_chromite'
+[04:02:33] [WARN] Error parsing recipe tfcorewashing:ores/chromite/chromite_normal_hammer[tfc:extra_products_shapeless_crafting]: {"type":"tfc:extra_products_shapeless_crafting","extra_products":[],"recipe":{"type":"tfc:damage_inputs_shapeless_crafting","recipe":{"type":"minecraft:crafting_shapeless","ingredients":[{"item":"firmalife:ore/normal_chromite"},{"tag":"forge:tools/hammers"}],"result":{"item":"tfcorewashing:rocky_chunks_chromite","count":5}}}}: Unknown item 'firmalife:ore/normal_chromite'
+[04:02:33] [INFO] Added 3 recipes, removed 4 recipes, modified 0 recipes, with 4 failed recipes in 17.72 ms
+[04:02:37] [INFO] Server resource reload complete!

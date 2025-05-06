@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "c2fc87a104ed4e4e975ddadcf25a063d"
+	name: "T_F_General#c2fc87a1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

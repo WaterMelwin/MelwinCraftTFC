@@ -1,0 +1,19 @@
+[03:24:27] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[03:24:27] [INIT] Loaded plugins:
+[03:24:27] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[03:24:27] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[03:24:27] [INIT] - com.squoshi.irons_spells_js.IronsSpellsJSPlugin
+[03:24:27] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[03:24:27] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[03:24:27] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[03:24:27] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[03:24:27] [INIT] - com.prunoideae.KubeJSBotaniaPlugin
+[03:24:27] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[03:24:27] [INIT] - dev.sorin.kubejsextendedcrafting.KubejsExtendedCraftingPlugin
+[03:24:27] [INIT] KubeJS TFC configuration:
+[03:24:27] [INIT] - Debug mode enabled: false
+[03:24:27] [INIT] - Self tests console insertion enabled: true
+[03:24:27] [INFO] example.js#5: Hello, World! (Loaded startup scripts)
+[03:24:27] [INFO] Loaded script startup_scripts:example.js in 0.052 s
+[03:24:27] [INFO] Loaded script startup_scripts:ToolTest.js in 0.007 s
+[03:24:27] [INFO] Loaded 2/2 KubeJS startup scripts in 0.608 s with 0 errors and 0 warnings

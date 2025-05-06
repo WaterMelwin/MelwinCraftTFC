@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\kubejs",
+    "\\kubejs\\assets",
+    "\\kubejs\\assets\\kubejs",
+    "\\kubejs\\assets\\kubejs\\textures",
+    "\\kubejs\\assets\\kubejs\\textures\\item",
+    "\\kubejs\\assets\\models",
+    "\\kubejs\\assets\\models\\Item",
+    "\\kubejs\\server_scripts",
+    "\\kubejs\\server_scripts\\Extended Crafting",
+    "\\kubejs\\server_scripts\\Twilight Forest"
+  ],
+  "SelectedNode": "\\kubejs\\server_scripts\\Create\\Added Shaped Recipes.js",
+  "PreviewInSolutionExplorer": false
+}

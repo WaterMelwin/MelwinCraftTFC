@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "767f564bd7d447f896279ce6e3c3b7ac"
+	name: "WaterMelwin#767f564b"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

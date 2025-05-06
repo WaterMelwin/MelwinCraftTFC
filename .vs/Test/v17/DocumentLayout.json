@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CurseForge\\Instances\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Create\\Added Shaped Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kubejs\\server_scripts\\Create\\Added Shaped Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\TerraFirmaCraft\\Tags.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kubejs\\server_scripts\\TerraFirmaCraft\\Tags.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Extended Crafting\\Removed Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kubejs\\server_scripts\\Extended Crafting\\Removed Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Twilight Forest\\Removed Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kubejs\\server_scripts\\Twilight Forest\\Removed Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Create\\Removed Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kubejs\\server_scripts\\Create\\Removed Recipes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CurseForge\\Instances\\Test\\kubejs\\startup_scripts\\steelleaf tools.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kubejs\\startup_scripts\\steelleaf tools.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\CurseForge\\Instances\\Test\\kubejs\\assets\\models\\Item\\steelleaf_pickaxe.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kubejs\\assets\\models\\Item\\steelleaf_pickaxe.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tags.js",
+              "DocumentMoniker": "E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\TerraFirmaCraft\\Tags.js",
+              "RelativeDocumentMoniker": "kubejs\\server_scripts\\TerraFirmaCraft\\Tags.js",
+              "ToolTip": "E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\TerraFirmaCraft\\Tags.js",
+              "RelativeToolTip": "kubejs\\server_scripts\\TerraFirmaCraft\\Tags.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-06T10:58:19.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Added Shaped Recipes.js",
+              "DocumentMoniker": "E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Create\\Added Shaped Recipes.js",
+              "RelativeDocumentMoniker": "kubejs\\server_scripts\\Create\\Added Shaped Recipes.js",
+              "ToolTip": "E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Create\\Added Shaped Recipes.js",
+              "RelativeToolTip": "kubejs\\server_scripts\\Create\\Added Shaped Recipes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-06T10:35:34.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Removed Recipes.js",
+              "DocumentMoniker": "E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Extended Crafting\\Removed Recipes.js",
+              "RelativeDocumentMoniker": "kubejs\\server_scripts\\Extended Crafting\\Removed Recipes.js",
+              "ToolTip": "E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Extended Crafting\\Removed Recipes.js",
+              "RelativeToolTip": "kubejs\\server_scripts\\Extended Crafting\\Removed Recipes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-06T10:32:43.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Removed Recipes.js",
+              "DocumentMoniker": "E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Twilight Forest\\Removed Recipes.js",
+              "RelativeDocumentMoniker": "kubejs\\server_scripts\\Twilight Forest\\Removed Recipes.js",
+              "ToolTip": "E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Twilight Forest\\Removed Recipes.js",
+              "RelativeToolTip": "kubejs\\server_scripts\\Twilight Forest\\Removed Recipes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-06T10:31:16.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Removed Recipes.js",
+              "DocumentMoniker": "E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Create\\Removed Recipes.js",
+              "RelativeDocumentMoniker": "kubejs\\server_scripts\\Create\\Removed Recipes.js",
+              "ToolTip": "E:\\CurseForge\\Instances\\Test\\kubejs\\server_scripts\\Create\\Removed Recipes.js",
+              "RelativeToolTip": "kubejs\\server_scripts\\Create\\Removed Recipes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-06T10:27:02.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "steelleaf_pickaxe.js",
+              "DocumentMoniker": "E:\\CurseForge\\Instances\\Test\\kubejs\\assets\\models\\Item\\steelleaf_pickaxe.js",
+              "RelativeDocumentMoniker": "kubejs\\assets\\models\\Item\\steelleaf_pickaxe.js",
+              "ToolTip": "E:\\CurseForge\\Instances\\Test\\kubejs\\assets\\models\\Item\\steelleaf_pickaxe.js",
+              "RelativeToolTip": "kubejs\\assets\\models\\Item\\steelleaf_pickaxe.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-06T10:07:42.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "steelleaf tools.js",
+              "DocumentMoniker": "E:\\CurseForge\\Instances\\Test\\kubejs\\startup_scripts\\steelleaf tools.js",
+              "RelativeDocumentMoniker": "kubejs\\startup_scripts\\steelleaf tools.js",
+              "ToolTip": "E:\\CurseForge\\Instances\\Test\\kubejs\\startup_scripts\\steelleaf tools.js",
+              "RelativeToolTip": "kubejs\\startup_scripts\\steelleaf tools.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-06T09:53:48.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

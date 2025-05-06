@@ -1,0 +1,13 @@
+#51A tfc:canyons
+#175 tfc:highlands
+#041 tfc:hills
+#32F tfc:low_canyons
+#303 tfc:lowlands
+#6ED tfc:ocean
+#5D8 tfc:plains
+#7B9 tfc:plateau
+#7FB tfc:river
+#5C7 tfc:rolling_hills
+#4F9 tfc:salt_marsh
+#25C tfc:shore
+#284 tfc:tidal_flats

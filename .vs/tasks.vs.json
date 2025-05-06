@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-NewFile",
+      "appliesTo": "kubejs/server_scripts/TerraFirmaCraft/NewFile",
+      "type": "launch"
+    }
+  ]
+}
